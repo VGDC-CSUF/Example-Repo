@@ -2,4 +2,4 @@
 This is the example repository for the Unity + GitHub Workshop!
 
 ## Main Branch
-Making a change to the main branch
+Making ANOTHER change to the main branch after the new branch has been created
